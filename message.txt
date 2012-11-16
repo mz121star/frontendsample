@@ -1,0 +1,7 @@
+Hostname: WIN-20100917GWP
+Opearation System: Windows_NT6.1.7600
+Running Time 3048.7693289
+Disk total amount: 2682773504
+Disk freemem amount: 752541696
+CPU Core number: 0
+CPU: Intel(R) Core(TM)2 CPU         T5500  @ 1.66GHz
