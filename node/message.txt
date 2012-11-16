@@ -1,0 +1,7 @@
+Hostname: CNSHH-DT033
+Opearation System: Windows_NT6.1.7601
+Running Time 115206.675436
+Disk total amount: 8520331264
+Disk freemem amount: 1194180608
+CPU Core number: 0
+CPU: Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz
